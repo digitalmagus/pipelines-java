@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/acme-pipeline/testpipeline/_apis/build/status/acme-pipeline%20-%20CI?branchName=master)](https://dev.azure.com/acme-pipeline/testpipeline/_build/latest?definitionId=1&branchName=master)
+
 
 # Contributing
 
